@@ -1,0 +1,19 @@
+Este proyecto es un prototipo de una aplicación web para la gestión de proyectos en EPSEL
+
+## Descarga del proyecto
+
+Se tiene que instalar las dependenciar con "npm install"
+
+## Inicio de la aplicación
+Para correr el proyecto se tiene que usar "npm run dev" y se abrirá en el navegador la aplicación web.
+Puede usar tanto el correo electrónico como la contraseña para iniciar sesión en la aplicación:
+
+ADMINISTRADOR
+email: "harold@gmail.com",
+password: "admin123",
+
+USUARIO
+email: "usuario@epsel.gob.pe",
+password: "user123",
+
+Puede testear las diferentes funcionalidades de la aplicación con estos usuarios, como la creación de proyectos,etc.
