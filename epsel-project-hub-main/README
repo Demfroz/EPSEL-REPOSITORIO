@@ -1,11 +1,12 @@
 Este proyecto es un prototipo de una aplicación web para la gestión de proyectos en EPSEL
+se trabaja de manera local por ahora luego se planea que todos los usuarios puedan acceder a la aplicación web desde cualquier parte del mundo, para eso se tiene que subir el proyecto a un hosting y configurar el dominio para que los usuarios puedan acceder a la aplicación web.
 
 ## Descarga del proyecto
 
 Se tiene que instalar las dependenciar con "npm install"
 
 ## Inicio de la aplicación
-Para correr el proyecto se tiene que usar "npm run dev" y se abrirá en el navegador la aplicación web.
+Para correr el proyecto se tiene que estar dentro de la carpeta principal que es epsel-project-hub-main si no a la hora de  usar "npm run dev" no se abrirá en el navegador la aplicación web.
 Puede usar tanto el correo electrónico como la contraseña para iniciar sesión en la aplicación:
 
 ADMINISTRADOR
